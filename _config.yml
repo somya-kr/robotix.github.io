@@ -20,7 +20,7 @@ sass:
 # Site Settings
 title: "Technology Robotix Society, IIT Kharagpur"
 description: "Technology Robotix Society is an official society under the Technology Students' Gymkhana IIT Kharagpur."
-baseurl: "http://localhost:4000/robotix.fork/"
+baseurl: "https://2020.robotix.in/"
 permalink: "/blog/:title/"
 collections:
   events:
@@ -47,12 +47,12 @@ socialImage: "/img/favicons/favicon-196x196.png"
 # Navigation
 navigationLinks:
  - {link: "https://makerspace.robotix.in/", text: "Makerspace"}
- - {permalink: "/FAQs/", text: "FAQs"}
  - {permalink: "/workshops/", text: "Workshops"}
  - {permalink: "/event/", text: "Events"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/tutorial", text: "Tutorials"}
  - {permalink: "/team/", text: "Team"}
+ - {permalink: "/FAQs/", text: "FAQs"}
  - {permalink: "/about-us/", text: "About Us"}
 bottomNavigationLinks:
  - {link: "https://robotix.typeform.com/to/USirXsoq", text: "Contact Us"}
